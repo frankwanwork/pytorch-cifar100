@@ -1,6 +1,7 @@
 # Pytorch-cifar100
 
 practice on cifar100 using pytorch
+https://zhuanlan.zhihu.com/p/57003557
 
 ## Requirements
 
